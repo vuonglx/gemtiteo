@@ -9,7 +9,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 // --- CẤU HÌNH ---
 // Hãy thay thế bằng API Key thực của bạn
-const String GEMINI_API_KEY = 'AIzaSyANy0jqQKx-2YAWCpRsQbDW7Ob2imGEFBc'; 
+const String GEMINI_API_KEY = 'AIzaSyANy0jqQKx-fdsfdsfdsf'; 
 const String GEMINI_URL = 'https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key=$GEMINI_API_KEY';
 
 // --- DỮ LIỆU MẪU ---
